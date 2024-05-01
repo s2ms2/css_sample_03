@@ -1,0 +1,46 @@
+@charset "UTF-8";
+body {
+  background-color: #ffc0cb;
+}
+ 
+#wrap {
+  width: 960px;
+  margin: auto;
+  background-color:#ffe6ea;
+}
+ 
+header {
+  padding: 40px;
+  height: 150px;
+  font-family: "Jersey 15", sans-serif;
+  font-size: 50px;
+  text-align: center;
+}
+
+
+
+ 
+nav {
+  padding: 8px 40px;
+  background-color: #4d4d4d;
+  color:#e6e6e6
+}
+ 
+main {
+  padding: 40px;
+  height : 400px;
+}
+
+main p {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  font-family: "Zen Maru Gothic", serif;
+}
+ 
+footer {
+  padding: 40px;
+  height: 40px;
+  background-color : #db7093;
+  color: white;
+}
